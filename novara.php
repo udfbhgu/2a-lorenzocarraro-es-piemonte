@@ -1,24 +1,8 @@
 <?php
-	$title = "Home";
+	$title = "Novara.php";
 	include_once 'header_v2.php';
 ?>
 
-	<body>
-		<header>
-			<nav class="navbar navbar-default" style="display: block; padding-left: 0px; padding-right: 10px; border-style: double;">
-        		<div class="container-fluid">
-          			<div class="navbar-header">
-          				<a class="navbar-brand" href="piemonte.html">
-							<ul class="nav navbar-nav">
-								<a href="novara.html">Monumenti e luoghi d'interesse</a>
-								<a href="novara.html">Centro storico</a>
-								<a href="novara.html">Architetture civili</a>
-							</ul>
-						</a>
-					</div>
-				</div>
-			</nav>
-		</header>
 		<h1>Novara</h1>
 		<div>
 			<p><b>Novara</b> è un comune italiano di 105.574 abitanti, capoluogo dell'omonima provincia in Piemonte. È il<br> secondo comune della regione per popolazione dopo Torino e crocevia di importanti traffici commerciali tra<br> gli assi viari che congiungono Milano a Torino e Genova alla Svizzera. 
