@@ -1,6 +1,6 @@
 <?php
-	$title = "Home";
-	include_once 'header_v2.php';
+	$title = "index.php";
+	include_once 'header.php';
 ?>
 
 		<h1>Piemonte</h1>
