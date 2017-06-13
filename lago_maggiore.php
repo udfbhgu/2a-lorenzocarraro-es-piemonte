@@ -1,25 +1,8 @@
 <?php
-	$title = "Home";
-	include_once 'header_v2.php';
+	$title = "lago_maggiore.php";
+	include_once 'header.php';
 ?>
 
-	<body>
-		<header>
-			<nav class="navbar navbar-default" style="display: block; padding-left: 0px; padding-right: 10px; border-style: double;">
-        		<div class="container-fluid">
-          			<div class="navbar-header">
-          				<a class="navbar-brand" href="piemonte.html">
-							<ul class="nav navbar-nav">
-            					<a href="piemonte.html" style="">Piemonte</a>
-            					<a href="alpi.html">Alpi</a>
-           						<a href="novara.html">Novara</a>
-           						<a href="lago-maggiore.html">Lago Maggiore</a>
-           					</ul>
-           				</a>
-           			</div>
-           		</div>
-      		</nav>
-      	</header>
 		<h1>Lago Maggiore</h1>
 		<div>
 			<p><b>Il lago Maggiore</b> è un lago prealpino di origine fluvioglaciale, il secondo per superficie in Italia. Il suo nome<br> "Maggiore" deriva dal fatto che un tempo si riteneva il più esteso dei laghi prealpini.
