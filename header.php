@@ -20,3 +20,21 @@
 		<!-- Custom CSS -->
 		<link href="css/custom.css" rel="stylesheet">
 	</head>
+	
+	<body>
+		<header>
+    		<nav class="navbar navbar-default" style="display: block; padding-left: 0px; padding-right: 10px; border-style: double;">
+        		<div class="container-fluid">
+          			<div class="navbar-header">
+          				<a class="navbar-brand" href="piemonte.html">
+							<ul class="nav navbar-nav">
+            					<a href="piemonte.html">Piemonte</a>
+        						<a href="alpi.html">Alpi</a>
+           						<a href="novara.html">Novara</a>
+           						<a href="lago-maggiore.html">Lago Maggiore</a>
+          					</ul>
+          				</a>
+          			</div>
+          		</div>
+      		</nav>
+		</header>
