@@ -3,23 +3,6 @@
 	include_once 'header_v2.php';
 ?>
 
-	<body>
-		<header>
-    		<nav class="navbar navbar-default" style="display: block; padding-left: 0px; padding-right: 10px; border-style: double;">
-        		<div class="container-fluid">
-          			<div class="navbar-header">
-          				<a class="navbar-brand" href="piemonte.html">
-							<ul class="nav navbar-nav">
-            					<a href="piemonte.html">Piemonte</a>
-        						<a href="alpi.html">Alpi</a>
-           						<a href="novara.html">Novara</a>
-           						<a href="lago-maggiore.html">Lago Maggiore</a>
-          					</ul>
-          				</a>
-          			</div>
-          		</div>
-      		</nav>
-		</header>
 		<h1>Piemonte</h1>
 		<div>
 			<p>Il <b>Piemonte</b> è una regione dell’Italia nord-occidentale di 4.377.791 abitanti con capoluogo Torino. Confina<br> ad ovest con la Francia, a nord-ovest con la Valle d’Aosta, a nord con la Svizzera, ad est con la Lombardia,<br> a sud-est con l’Emilia-Romagna e a sud con la Liguria.
