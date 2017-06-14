@@ -1,7 +1,7 @@
 <hr>
 
       <footer>
-        <p>&copy; 2016 Company, Inc.</p>
+        <p>&copy; 2017 Lorenzo Carraro</p>
       </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
