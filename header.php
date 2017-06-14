@@ -5,7 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<title>CV Lorenzo Carraro</title>
+		<title><?php print $title; ?></title>
 
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -22,19 +22,24 @@
 	</head>
 
 	<body>
-		<header>
-    		<nav class="navbar navbar-default" style="display: block; padding-left: 0px; padding-right: 10px; border-style: double;">
-        		<div class="container-fluid">
-          			<div class="navbar-header">
-          				<a class="navbar-brand" href="piemonte.html">
-							<ul class="nav navbar-nav">
-            					<a href="piemonte.html">Piemonte</a>
-        						<a href="alpi.html">Alpi</a>
-           						<a href="novara.html">Novara</a>
-           						<a href="lago-maggiore.html">Lago Maggiore</a>
-          					</ul>
-          				</a>
-          			</div>
-          		</div>
-      		</nav>
-		</header>
+
+	<nav class="navbar navbar-fixed-top navbar-inverse">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+          		</button>
+			</div>
+			<div id="navbar" class="collapse navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li<?php if ($title == "Piemonte") { print ' class="active"';}?>><a href="index.php">Piemonte</a></li>
+					<li<?php if ($title == "Plpi") { print ' class="active"';}?>><a href="alpi.php">Alpi</a></li>
+					<li<?php if ($title == "Novara") { print ' class="active"';}?>><a href="novara.php">Novara</a></li>
+					<li<?php if ($title == "Lago Maggiore") { print ' class="active"';}?>><a href="lago_maggiore.php">Lago MAggiore</a></li>
+				</ul>
+			</div>
+		</div>
+    </nav>
