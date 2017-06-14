@@ -25,7 +25,7 @@
 		</div>
 		<h4>Monti</h4>
 		<div>
-			<p>Le principali catene montuose sono le <a href="alpi.html">Alpi</a>, che circondano la regione ad ovest e nord, e gli Appennini che,<br> situati al confine con Liguria ed Emilia-Romagna, costituiscono così un confine naturale.
+			<p>Le principali catene montuose sono le <a href="alpi.php">Alpi</a>, che circondano la regione ad ovest e nord, e gli Appennini che,<br> situati al confine con Liguria ed Emilia-Romagna, costituiscono così un confine naturale.
 			</p>
 		</div>
 		<div> 
@@ -39,7 +39,7 @@
 				<li><b>Tanaro</b>, il principale affluente di destra, lungo 276 km con i suoi sub-affluenti principali, la Bormida e<br> la <a href="http://www.vallesturademonte.com/">Stura di Demonte</a>;</li>
 				<li><b>Dora Riparia</b>, affluente di sinistra, lungo 125 km, percorre interamente, coi suoi affluenti, la Valle di<br> Susa;</li>
 				<li><b>Sesia</b>, lungo 140 km, attraversa il vercellese ed è uno dei più importanti fiumi del Piemonte orientale;</li>
-				<li><b>Ticino</b>, lungo 248 km, il secondo fiume italiano per portata d’acqua, immissario ed emissario del <a href="lago-maggiore.html">Lago<br> Maggiore</a>, scorre però solo per pochi km interamente in Piemonte in quanto funge da confine con la<br> Lombardia;</li>
+				<li><b>Ticino</b>, lungo 248 km, il secondo fiume italiano per portata d’acqua, immissario ed emissario del <a href="lago_maggiore.php">Lago<br> Maggiore</a>, scorre però solo per pochi km interamente in Piemonte in quanto funge da confine con la<br> Lombardia;</li>
 			</ul>
 		</div>
 		<h2>Le attività</h2>
