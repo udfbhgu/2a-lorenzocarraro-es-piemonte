@@ -38,7 +38,7 @@
 					<li<?php if ($title == "Piemonte") { print ' class="active"';}?>><a href="index.php">Piemonte</a></li>
 					<li<?php if ($title == "Plpi") { print ' class="active"';}?>><a href="alpi.php">Alpi</a></li>
 					<li<?php if ($title == "Novara") { print ' class="active"';}?>><a href="novara.php">Novara</a></li>
-					<li<?php if ($title == "Lago Maggiore") { print ' class="active"';}?>><a href="lago_maggiore.php">Lago MAggiore</a></li>
+					<li<?php if ($title == "Lago Maggiore") { print ' class="active"';}?>><a href="lago_maggiore.php">Lago Maggiore</a></li>
 				</ul>
 			</div>
 		</div>
