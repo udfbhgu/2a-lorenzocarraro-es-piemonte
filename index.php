@@ -1,5 +1,5 @@
 <?php
-	$title = "Piemonte";
+	$title = "Home";
 	include_once 'header.php';
 ?>
 
