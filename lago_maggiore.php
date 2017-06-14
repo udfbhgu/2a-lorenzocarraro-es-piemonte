@@ -27,7 +27,6 @@
 			<p>La vetta del Mottarone</p>
 		</div>
 		<p>centro storico di Novara e circa 50 km da Vercelli.</p>
-		<hr>
 
 <?php
 	include_once 'footer.php';
