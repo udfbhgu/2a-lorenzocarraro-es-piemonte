@@ -2,6 +2,7 @@
 
       <footer>
         <p>&copy; 2017 Lorenzo Carraro</p>
+        <p>&copy; Powered by Sublime Text 3</p>
       </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
