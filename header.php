@@ -18,7 +18,7 @@
 		<![endif]-->
 		
 		<!-- Custom CSS -->
-		<link href="css/custom.css" rel="stylesheet">
+		<link href="css/vendor/custom.css" rel="stylesheet">
 	</head>
 
 	<body>
@@ -40,6 +40,7 @@
 					<li<?php if ($title == "Novara") { print ' class="active"';}?>><a href="novara.php">Novara</a></li>
 					<li<?php if ($title == "Lago Maggiore") { print ' class="active"';}?>><a href="lago_maggiore.php">Lago Maggiore</a></li>
 				</ul>
-			</div>
-		</div>
+			</div><!-- div navbar -->
+		</div><!-- div container -->
     </nav>
+    <div class="container" style="padding-top: 20px; padding-left: 10px">

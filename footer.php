@@ -1,4 +1,5 @@
-<hr>
+	</div>
+	<hr>
 
       <footer>
         <p>&copy; 2017 Lorenzo Carraro</p>
